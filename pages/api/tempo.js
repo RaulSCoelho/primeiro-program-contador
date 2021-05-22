@@ -9,7 +9,7 @@ async function tempo(request, response) {
     response.json({
         date: dynamicDate.toGMTString(),
         inscritos: inscritos
-    })
+    });
 }
 
 export default tempo;
