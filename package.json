@@ -1,0 +1,25 @@
+{
+  "name": "primeiro-teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaulSCoelho/primeiro-teste.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaulSCoelho/primeiro-teste/issues"
+  },
+  "homepage": "https://github.com/RaulSCoelho/primeiro-teste#readme",
+  "dependencies": {
+    "next": "^10.2.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
