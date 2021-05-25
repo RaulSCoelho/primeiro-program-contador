@@ -7,13 +7,13 @@ function Home() {
         </header>
         <section>
             <div id="divspace">
-                Início: <input type="number" name="num1" id="num1"></input>
+                Início: <input type="number" name="num1" id="num1"></input>(Da contagem)
             </div>
             <div id="divspace">
-                Fim: <input type="number" name="num2" id="num2"></input>
+                Fim: <input type="number" name="num2" id="num2"></input>(Da contagem)
             </div>
             <div id="divspace">
-                Contagem: <input type="number" name="cont" id="cont"></input>
+                Contagem: <input type="number" name="cont" id="cont"></input>(De quanto em quanto)
             </div>
             <div id='btn'>
                 <input id="button" type="button" value="Contar" onClick={() => {
