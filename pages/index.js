@@ -45,7 +45,7 @@ function Home() {
                 Contagem: <input type="number" name="cont" id="cont"></input>
             </div>
             <div id='btn'>
-                <input id="button" type="button" value="Contar" onClick={Clicar()}></input>
+                <input id="button" type="button" value="Contar" onClick="Clicar()"></input>
             </div>
             <div id="res">
 
